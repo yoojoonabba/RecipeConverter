@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotorData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Index Number="0" Common="false" Name="Top">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="100" Min="-99999" Max="99999" />
+    <Acc Accel="500" MAT="30" />
+  </Index>
+  <Index Number="1" Common="false" Name="PickVacOn">
+    <Pos Value="58" Min="-99999" Max="99999" />
+    <Speed Value="5" Min="-99999" Max="99999" />
+    <Acc Accel="500" MAT="30" />
+  </Index>
+  <Index Number="2" Common="false" Name="PickFastDn">
+    <Pos Value="-3" Min="-99999" Max="99999" />
+    <Speed Value="100" Min="-99999" Max="99999" />
+    <Acc Accel="500" MAT="30" />
+  </Index>
+  <Index Number="3" Common="false" Name="PickSlowUp">
+    <Pos Value="-3" Min="-99999" Max="99999" />
+    <Speed Value="5" Min="-99999" Max="99999" />
+    <Acc Accel="500" MAT="30" />
+  </Index>
+  <Index Number="4" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="500" MAT="30" />
+  </Index>
+  <Index Number="5" Common="false" Name="PlaceVacOff">
+    <Pos Value="54" Min="-99999" Max="99999" />
+    <Speed Value="5" Min="-99999" Max="99999" />
+    <Acc Accel="500" MAT="30" />
+  </Index>
+  <Index Number="6" Common="false" Name="PlaceFastDn">
+    <Pos Value="-3" Min="-99999" Max="99999" />
+    <Speed Value="100" Min="-99999" Max="99999" />
+    <Acc Accel="500" MAT="30" />
+  </Index>
+  <Index Number="7" Common="false" Name="PlaceSlowUp">
+    <Pos Value="-3" Min="-99999" Max="99999" />
+    <Speed Value="5" Min="-99999" Max="99999" />
+    <Acc Accel="500" MAT="30" />
+  </Index>
+  <Index Number="8" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="500" MAT="30" />
+  </Index>
+  <Index Number="9" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="10" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="11" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="12" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="13" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="14" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="15" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="16" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="17" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="18" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="19" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="20" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="21" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="22" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="23" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="24" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="25" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="26" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="27" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="28" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="29" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="30" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="31" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="32" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="33" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="34" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="35" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="36" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="37" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="38" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="39" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="40" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="41" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="42" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="43" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="44" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="45" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="46" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="47" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="48" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+  <Index Number="49" Common="false" Name="">
+    <Pos Value="0" Min="-99999" Max="99999" />
+    <Speed Value="0" Min="-99999" Max="99999" />
+    <Acc Accel="100" MAT="30" />
+  </Index>
+</MotorData>

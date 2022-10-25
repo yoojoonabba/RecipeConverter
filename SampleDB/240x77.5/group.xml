@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupArray xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Index Key="매거진 슬롯 개수" Val="20" />
+  <Index Key="매거진 폭(mm)" Val="84" />
+  <Index Key="002" Val="0" />
+  <Index Key="자재 길이 (mm)" Val="240" />
+  <Index Key="자재 폭 (mm)" Val="77.5" />
+  <Index Key="005" Val="0" />
+  <Index Key="006" Val="0" />
+  <Index Key="007" Val="0" />
+  <Index Key="008" Val="0" />
+  <Index Key="009" Val="0" />
+  <Index Key="인-레일 : 픽업 진공 형성 시간" Val="0.5" />
+  <Index Key="보트1(상면클린) : 픽업 진공 형성(피커) 시간" Val="0.5" />
+  <Index Key="보트1(상면클린) : 픽업 블로우(보트) 시간" Val="0.7" />
+  <Index Key="보트1(상면클린) : 플레이스 다운(피커) 시간" Val="0.5" />
+  <Index Key="보트1(상면클린) : 플레이스 블로우(피커) 시간" Val="0.5" />
+  <Index Key="보트2(하면클린) : 픽업 진공 형성(피커) 시간" Val="0.5" />
+  <Index Key="보트2(하면클린) : 픽업 블로우(보트) 시간" Val="0.7" />
+  <Index Key="보트2(하면클린) : 플레이스 다운(피커) 시간" Val="0.5" />
+  <Index Key="보트2(하면클린) : 플레이스 블로우(피커) 시간" Val="0.5" />
+  <Index Key="보트3(언로딩) : 픽업 진공 형성(피커) 시간" Val="1" />
+  <Index Key="보트3(언로딩) : 픽업 블로우(보트) 시간" Val="0.7" />
+  <Index Key="보트3(언로딩) : Top 스캔 피커 플레이스 다운(피커) 시간" Val="0.5" />
+  <Index Key="보트3(언로딩) : Top 스캔 피커 플레이스 블로우(피커) 시간" Val="0.5" />
+  <Index Key="보트3(언로딩) : Btm 스캔 피커 플레이스 다운(피커) 시간" Val="0.5" />
+  <Index Key="보트3(언로딩) : Btm 스캔 피커 플레이스 블로우(피커) 시간" Val="0.5" />
+  <Index Key="Top 스캔 보트 : 픽업 진공 형성(피커) 시간" Val="0.5" />
+  <Index Key="Top 스캔 보트 : 픽업 블로우(보트) 시간" Val="0.7" />
+  <Index Key="Top 스캔 보트 : 플레이스 다운(피커) 시간" Val="0.5" />
+  <Index Key="Top 스캔 보트 : 플레이스 블로우(피커) 시간" Val="0.5" />
+  <Index Key="Btm 스캔 보트 : 픽업 진공 형성(피커) 시간" Val="0.5" />
+  <Index Key="Btm 스캔 보트 : 픽업 블로우(보트) 시간" Val="0.7" />
+  <Index Key="Btm 스캔 보트 : 플레이스 다운(피커) 시간" Val="0.5" />
+  <Index Key="Btm 스캔 보트 : 플레이스 블로우(피커) 시간" Val="0.5" />
+  <Index Key="아웃 레일 : 플레이스 다운(피커) 시간" Val="0.5" />
+  <Index Key="아웃 레일 : 플레이스 블로우(피커) 시간" Val="0.5" />
+  <Index Key="035" Val="0" />
+  <Index Key="036" Val="0" />
+  <Index Key="037" Val="0" />
+  <Index Key="038" Val="0" />
+  <Index Key="039" Val="0" />
+  <Index Key="040" Val="0" />
+  <Index Key="041" Val="0" />
+  <Index Key="042" Val="0" />
+  <Index Key="043" Val="0" />
+  <Index Key="044" Val="0" />
+  <Index Key="045" Val="0" />
+  <Index Key="046" Val="0" />
+  <Index Key="047" Val="0" />
+  <Index Key="048" Val="0" />
+  <Index Key="049" Val="0" />
+  <Index Key="050" Val="0" />
+  <Index Key="051" Val="0" />
+  <Index Key="052" Val="0" />
+  <Index Key="053" Val="0" />
+  <Index Key="054" Val="0" />
+  <Index Key="055" Val="0" />
+  <Index Key="056" Val="0" />
+  <Index Key="057" Val="0" />
+  <Index Key="058" Val="0" />
+  <Index Key="059" Val="0" />
+  <Index Key="060" Val="0" />
+  <Index Key="061" Val="0" />
+  <Index Key="062" Val="0" />
+  <Index Key="063" Val="0" />
+  <Index Key="064" Val="0" />
+  <Index Key="065" Val="0" />
+  <Index Key="066" Val="0" />
+  <Index Key="067" Val="0" />
+  <Index Key="068" Val="0" />
+  <Index Key="069" Val="0" />
+  <Index Key="070" Val="0" />
+  <Index Key="071" Val="0" />
+  <Index Key="072" Val="0" />
+  <Index Key="073" Val="0" />
+  <Index Key="074" Val="0" />
+  <Index Key="075" Val="0" />
+  <Index Key="076" Val="0" />
+  <Index Key="077" Val="0" />
+  <Index Key="078" Val="0" />
+  <Index Key="079" Val="0" />
+  <Index Key="080" Val="0" />
+  <Index Key="081" Val="0" />
+  <Index Key="082" Val="0" />
+  <Index Key="083" Val="0" />
+  <Index Key="084" Val="0" />
+  <Index Key="085" Val="0" />
+  <Index Key="086" Val="0" />
+  <Index Key="087" Val="0" />
+  <Index Key="088" Val="0" />
+  <Index Key="089" Val="0" />
+  <Index Key="090" Val="0" />
+  <Index Key="091" Val="0" />
+  <Index Key="092" Val="0" />
+  <Index Key="093" Val="0" />
+  <Index Key="094" Val="0" />
+  <Index Key="095" Val="0" />
+  <Index Key="096" Val="0" />
+  <Index Key="097" Val="0" />
+  <Index Key="098" Val="0" />
+  <Index Key="099" Val="0" />
+  <Index Key="100" Val="0" />
+  <Index Key="101" Val="0" />
+  <Index Key="102" Val="0" />
+  <Index Key="103" Val="0" />
+  <Index Key="104" Val="0" />
+  <Index Key="105" Val="0" />
+  <Index Key="106" Val="0" />
+  <Index Key="107" Val="0" />
+  <Index Key="108" Val="0" />
+  <Index Key="109" Val="0" />
+  <Index Key="110" Val="0" />
+  <Index Key="111" Val="0" />
+  <Index Key="112" Val="0" />
+  <Index Key="113" Val="0" />
+  <Index Key="114" Val="0" />
+  <Index Key="115" Val="0" />
+  <Index Key="116" Val="0" />
+  <Index Key="117" Val="0" />
+  <Index Key="118" Val="0" />
+  <Index Key="119" Val="0" />
+  <Index Key="120" Val="0" />
+  <Index Key="121" Val="0" />
+  <Index Key="122" Val="0" />
+  <Index Key="123" Val="0" />
+  <Index Key="124" Val="0" />
+  <Index Key="125" Val="0" />
+  <Index Key="126" Val="0" />
+  <Index Key="127" Val="0" />
+  <Index Key="128" Val="0" />
+  <Index Key="129" Val="0" />
+  <Index Key="130" Val="0" />
+  <Index Key="131" Val="0" />
+  <Index Key="132" Val="0" />
+  <Index Key="133" Val="0" />
+  <Index Key="134" Val="0" />
+  <Index Key="135" Val="0" />
+  <Index Key="136" Val="0" />
+  <Index Key="137" Val="0" />
+  <Index Key="138" Val="0" />
+  <Index Key="139" Val="0" />
+  <Index Key="140" Val="0" />
+  <Index Key="141" Val="0" />
+  <Index Key="142" Val="0" />
+  <Index Key="143" Val="0" />
+  <Index Key="144" Val="0" />
+  <Index Key="145" Val="0" />
+  <Index Key="146" Val="0" />
+  <Index Key="147" Val="0" />
+  <Index Key="148" Val="0" />
+  <Index Key="149" Val="0" />
+  <Index Key="150" Val="0" />
+  <Index Key="151" Val="0" />
+  <Index Key="152" Val="0" />
+  <Index Key="153" Val="0" />
+  <Index Key="154" Val="0" />
+  <Index Key="155" Val="0" />
+  <Index Key="156" Val="0" />
+  <Index Key="157" Val="0" />
+  <Index Key="158" Val="0" />
+  <Index Key="159" Val="0" />
+  <Index Key="160" Val="0" />
+  <Index Key="161" Val="0" />
+  <Index Key="162" Val="0" />
+  <Index Key="163" Val="0" />
+  <Index Key="164" Val="0" />
+  <Index Key="165" Val="0" />
+  <Index Key="166" Val="0" />
+  <Index Key="167" Val="0" />
+  <Index Key="168" Val="0" />
+  <Index Key="169" Val="0" />
+  <Index Key="170" Val="0" />
+  <Index Key="171" Val="0" />
+  <Index Key="172" Val="0" />
+  <Index Key="173" Val="0" />
+  <Index Key="174" Val="0" />
+  <Index Key="175" Val="0" />
+  <Index Key="176" Val="0" />
+  <Index Key="177" Val="0" />
+  <Index Key="178" Val="0" />
+  <Index Key="179" Val="0" />
+  <Index Key="180" Val="0" />
+  <Index Key="181" Val="0" />
+  <Index Key="182" Val="0" />
+  <Index Key="183" Val="0" />
+  <Index Key="184" Val="0" />
+  <Index Key="185" Val="0" />
+  <Index Key="186" Val="0" />
+  <Index Key="187" Val="0" />
+  <Index Key="188" Val="0" />
+  <Index Key="189" Val="0" />
+  <Index Key="190" Val="0" />
+  <Index Key="191" Val="0" />
+  <Index Key="192" Val="0" />
+  <Index Key="193" Val="0" />
+  <Index Key="194" Val="0" />
+  <Index Key="195" Val="0" />
+  <Index Key="196" Val="0" />
+  <Index Key="197" Val="0" />
+  <Index Key="198" Val="0" />
+  <Index Key="199" Val="0" />
+</GroupArray>
