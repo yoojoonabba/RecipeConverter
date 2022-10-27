@@ -65,7 +65,7 @@ namespace rcpChange
             var files = await GetFilesNameAsync(Path.Combine(_selectedDbPath, groupName), token);
             foreach (var fileName in files)
             {
-                var dirPath  = Path.Combine(_selectedDbPath, groupName, fileName);
+                var dirPath  = Path.Combine(_selectedDbPath, groupName);
                 var oldRecipe = await ReadOldRecipeAsync(dirPath, fileName, token);
                 var newRecipe = new New.MtRecipeIndexes();
                 for (int i = 0; i < 50; i++)
@@ -83,9 +83,9 @@ namespace rcpChange
 
                     newRecipe.Idx[i].Name = oldRecipe.Idx[i].Name;
                     if (oldRecipe.Idx[i].IsCommon)
-                        newRecipe.Idx[i].Mode = 1;
+                        newRecipe.Idx[i].IndexType = 1;
                     else
-                        newRecipe.Idx[i].Mode = 0;
+                        newRecipe.Idx[i].IndexType = 0;
                 }
                 await WriteNewRecipeAsync(Path.Combine(_selectedDbPath, $"_{groupName}"), fileName, newRecipe, token);
             }
@@ -126,9 +126,9 @@ namespace rcpChange
                         newRecipe.Idx[i].Name = oldRecipe.Idx[i].Name;
 
                         if (oldRecipe.Idx[i].IsCommon)
-                            newRecipe.Idx[i].Mode = 1;
+                            newRecipe.Idx[i].IndexType = 1;
                         else
-                            newRecipe.Idx[i].Mode = 0;
+                            newRecipe.Idx[i].IndexType = 0;
                     }
 
                     await WriteNewRecipeAsync(Path.Combine(_selectedDbPath, $"_{groupName}", deviceName), fileName, newRecipe, token);

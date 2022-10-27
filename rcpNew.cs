@@ -74,10 +74,10 @@ namespace rcpChange.New
         public int Number { get; set; }
 
         /// <summary>
-        /// 0(Device), 1(Group), 2(Global)
+        /// 0(Device), 1(Group), 2(Common)
         /// </summary>
-        [XmlAttribute("Mode")]
-        public int Mode { get; set; }
+        [XmlAttribute("IndexType")]
+        public int IndexType { get; set; }
 
         [XmlAttribute("Name")]
         public string Name { get; set; }
@@ -109,14 +109,14 @@ namespace rcpChange.New
             {
                 this.Idx[i] = new MtRecipeIndex();
                 this.Idx[i].Number = i;
-                this.Idx[i].Mode = 0;
+                this.Idx[i].IndexType = 0;
             }
         }
 
         public void Set(int idx, MtRecipeIndex src)
         {
             this.Idx[idx].Number = src.Number;
-            this.Idx[idx].Mode = src.Mode;
+            this.Idx[idx].IndexType = src.IndexType;
             this.Idx[idx].Name = src.Name;
 
             this.Idx[idx].Pos.Val = src.Pos.Val;
